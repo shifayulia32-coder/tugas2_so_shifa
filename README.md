@@ -1,12 +1,12 @@
 # LAPORAN PRATIKUM
 ## Nama: Shifa Yulia Azizah
 ## Nim: 05301425023
-## MK: Sistem opeerasi (projek 2)
+## MK: Sistem operasi (projek 2)
 ## Kelas: Sistem informasi-A
 ## Membuat direktori project_Sistem Operasi_a di home
 https://drive.google.com/file/d/1XkHBWw1N28wDHkGh0z8WfdXuh4jWKLW5/view?usp=drivesdk
 ```
-mkdir project_sitem_operasi_a
+mkdir project_sistem_operasi_a
 ```
 ## Di dalamnya dibuat src/,doc/,data/.
 https://drive.google.com/file/d/1RusX2UZmFuZA2WFF5b2ofIXfSPFVjstz/view?usp=drivesdk
