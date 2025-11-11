@@ -2,7 +2,7 @@
 ## Nama: Shifa Yulia Azizah
 ## Nim: 05301425023
 ## MK: Sistem opeerasi (projek 2)
-## Kelas: Sitem informasi-A
+## Kelas: Sistem informasi-A
 ## Membuat direktori project_Sistem Operasi_a di home
 https://drive.google.com/file/d/1XkHBWw1N28wDHkGh0z8WfdXuh4jWKLW5/view?usp=drivesdk
 ```
