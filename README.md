@@ -16,7 +16,7 @@ mkdir src doc data
 ## Membuat file kosong README.md dan src/main.sh.
 https://drive.google.com/file/d/1no7KRL9y8EKcKP5B5_TzIGCX87AwDKRs/view?usp=drivesdk
 ```
-touch READNE.md
+touch README.md
 touch src/main.sh
 ```
 ## menampilkan ukuran project_os dalam format yang mudah dibaca
